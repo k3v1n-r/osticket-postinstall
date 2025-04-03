@@ -39,9 +39,13 @@ This guide provides step-by-step instructions to configure osTicket after instal
 ## 3. Configure Teams
 - **What it does:** Allows agents from different departments to collaborate on tickets.
 - **Path:** `Admin Panel -> Agents -> Teams`
+![Adding Teams](images/Screenshot(59).png)
 - Click `Add New Team`.
+ ![Creating a Team](images/Screenshot(60).png)
 - Configure Team.
+ ![Configuring Team](images/Screenshot(61).png)
 - Assign agents.
+ ![Configuring Team](images/Screenshot(62).png)
 - Click `Create Team`.
 
 ## 4. Allow Anyone to Create Tickets
@@ -71,8 +75,11 @@ This guide provides step-by-step instructions to configure osTicket after instal
 ## 6. Configure Users
 - **What it does:** Registers end users (customers) who will submit support tickets.
 - **Path:** `Agent Panel -> Users -> Add New`
-- Click `Add New User`.
+ ![Creating Users](images/Screenshot(63).png)
+- Click `Add New User`
+![Adding a New User](images/Screenshot(64).png).
 - Enter user details (Name, Email, Username, etc.).
+ ![Configuring User](images/Screenshot(65).png)
 - Click `Create User`.
 
 ## 7. Configure SLA
